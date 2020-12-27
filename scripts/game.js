@@ -5,6 +5,7 @@ var input = ""
 var found = true
 var searchResults = []
 var score = 0
+var gotHint = false
 
 $(document).ready(function()
 {
@@ -23,6 +24,8 @@ $(document).ready(function()
 
 $(document).keypress(function(e)
 {
+    $("#challenge").find("span").html(challenge.value)
+
     if(e.which == 13)
     {
         score = 0
@@ -32,6 +35,11 @@ $(document).keypress(function(e)
     {
         score = 0
         clear()
+    }
+    else if(e.which == 47)
+    {
+        $("#challenge").find("span").html(`${challenge.combo.toUpperCase()} - ${challenge.value}`)
+        gotHint = true
     }
     else
     {
@@ -100,7 +108,10 @@ function getChallenge()
 
 function win()
 {
-    score++
+    if(!gotHint)
+        score++
+
+    gotHint = false
 
     $("#user-input").fadeOut(100).fadeIn(100).fadeOut(100).fadeIn(100)
 
