@@ -1,0 +1,872 @@
+[
+    {
+        "combo": "v",
+        "final": false,
+        "value": ""
+    },
+    {
+        "combo": "va",
+        "final": false,
+        "value": "Attack"
+    },
+    {
+        "combo": "vat",
+        "final": false,
+        "value": "Tower"
+    },
+    {
+        "combo": "vat1",
+        "final": true,
+        "value": "Attack Left Tower/Pheonix!"
+    },
+    {
+        "combo": "vat2",
+        "final": true,
+        "value": "Attack middle Tower/Pheonix!"
+    },
+    {
+        "combo": "vat3",
+        "final": true,
+        "value": "Attack right Tower/Pheonix!"
+    },
+    {
+        "combo": "va1",
+        "final": true,
+        "value": "Attack Left lane!"
+    },
+    {
+        "combo": "va2",
+        "final": true,
+        "value": "Attack middle lane!"
+    },
+    {
+        "combo": "va3",
+        "final": true,
+        "value": "Attack right lane!"
+    },
+    {
+        "combo": "vaa",
+        "final": true,
+        "value": "Attack!"
+    },
+    {
+        "combo": "vaf",
+        "final": true,
+        "value": "Attack Fire Giant!"
+    },
+    {
+        "combo": "vag",
+        "final": true,
+        "value": "Attack the Gold Fury!"
+    },
+    {
+        "combo": "vam",
+        "final": true,
+        "value": "Attack the Titan!"
+    },
+    {
+        "combo": "van",
+        "final": true,
+        "value": "Attack the Minions!"
+    },
+    {
+        "combo": "vb",
+        "final": false,
+        "value": "Enemy"
+    },
+    {
+        "combo": "vbj",
+        "final": false,
+        "value": "Jungle"
+    },
+    {
+        "combo": "vbj1",
+        "final": true,
+        "value": "Enemies in the Left Jungle!"
+    },
+    {
+        "combo": "vbj2",
+        "final": true,
+        "value": "Enemies in the right Jungle!"
+    },
+    {
+        "combo": "vbjj",
+        "final": true,
+        "value": "Enemies in the Jungle!"
+    },
+    {
+        "combo": "vb1",
+        "final": true,
+        "value": "Enemies in Left lane!"
+    },
+    {
+        "combo": "vb2",
+        "final": true,
+        "value": "Enemies in middle lane!"
+    },
+    {
+        "combo": "vb3",
+        "final": true,
+        "value": "Enemies in right lane!"
+    },
+    {
+        "combo": "vba",
+        "final": true,
+        "value": "Enemy ultimate incomming!"
+    },
+    {
+        "combo": "vbb",
+        "final": true,
+        "value": "Enemies have returned to base."
+    },
+    {
+        "combo": "vbd",
+        "final": true,
+        "value": "Enemies ultimate down!"
+    },
+    {
+        "combo": "vbe",
+        "final": true,
+        "value": "Enemies behind us!"
+    },
+    {
+        "combo": "vbf",
+        "final": true,
+        "value": "Enemies at the Fire Giant!"
+    },
+    {
+        "combo": "vbg",
+        "final": true,
+        "value": "Enemies at the Gold Fury!"
+    },
+    {
+        "combo": "vbm",
+        "final": true,
+        "value": "Enemies at the Titan!"
+    },
+    {
+        "combo": "vbs",
+        "final": true,
+        "value": "Enemy spotted!"
+    },
+    {
+        "combo": "vc",
+        "final": false,
+        "value": "Careful"
+    },
+    {
+        "combo": "vc1",
+        "final": true,
+        "value": "Be carful left lane!"
+    },
+    {
+        "combo": "vc2",
+        "final": true,
+        "value": "Be carful middle lane!"
+    },
+    {
+        "combo": "vc3",
+        "final": true,
+        "value": "Be carful right lane!"
+    },
+    {
+        "combo": "vcb",
+        "final": true,
+        "value": "Return to base!"
+    },
+    {
+        "combo": "vcc",
+        "final": true,
+        "value": "Be careful!"
+    },
+    {
+        "combo": "vcj",
+        "final": true,
+        "value": "Be careful in the jungle!"
+    },
+    {
+        "combo": "vd",
+        "final": false,
+        "value": "Defend"
+    },
+    {
+        "combo": "vd1",
+        "final": true,
+        "value": "Defend left lane!"
+    },
+    {
+        "combo": "vd2",
+        "final": true,
+        "value": "Defend middle lane!"
+    },
+    {
+        "combo": "vd3",
+        "final": true,
+        "value": "Defend right lane!"
+    },
+    {
+        "combo": "vdf",
+        "final": true,
+        "value": "Defend the Fire Giant!"
+    },
+    {
+        "combo": "vdg",
+        "final": true,
+        "value": "Defend the Gold Fury!"
+    },
+    {
+        "combo": "vdm",
+        "final": true,
+        "value": "Defend the Titan!"
+    },
+    {
+        "combo": "ve",
+        "final": false,
+        "value": "Emote"
+    },
+    {
+        "combo": "vea",
+        "final": true,
+        "value": "Awsome!"
+    },
+    {
+        "combo": "veg",
+        "final": true,
+        "value": "I'm the Greatest!"
+    },
+    {
+        "combo": "vej",
+        "final": true,
+        "value": "'Joke'"
+    },
+    {
+        "combo": "vel",
+        "final": true,
+        "value": "Laugh"
+    },
+    {
+        "combo": "ver",
+        "final": true,
+        "value": "You Rock!"
+    },
+    {
+        "combo": "vet",
+        "final": true,
+        "value": "Taunt"
+    },
+    {
+        "combo": "vew",
+        "final": true,
+        "value": "Woohoo!"
+    },
+    {
+        "combo": "vf",
+        "final": false,
+        "value": "MIA"
+    },
+    {
+        "combo": "vf1",
+        "final": true,
+        "value": "Enemy missing left!"
+    },
+    {
+        "combo": "vf2",
+        "final": true,
+        "value": "Enemy missing middle!"
+    },
+    {
+        "combo": "vf3",
+        "final": true,
+        "value": "Enemy missing right!"
+    },
+    {
+        "combo": "vff",
+        "final": true,
+        "value": "Enemy missing!"
+    },
+    {
+        "combo": "vg",
+        "final": false,
+        "value": "Gank"
+    },
+    {
+        "combo": "vg1",
+        "final": true,
+        "value": "Gank left lane!"
+    },
+    {
+        "combo": "vg2",
+        "final": true,
+        "value": "Gank middle lane!"
+    },
+    {
+        "combo": "vg3",
+        "final": true,
+        "value": "Gank right lane!"
+    },
+    {
+        "combo": "vgg",
+        "final": true,
+        "value": "Gank!"
+    },
+    {
+        "combo": "vh",
+        "final": false,
+        "value": "Help"
+    },
+    {
+        "combo": "vh1",
+        "final": true,
+        "value": "Help left lane!"
+    },
+    {
+        "combo": "vh2",
+        "final": true,
+        "value": "Help middle lane!"
+    },
+    {
+        "combo": "vh3",
+        "final": true,
+        "value": "Help right lane!"
+    },
+    {
+        "combo": "vhh",
+        "final": true,
+        "value": "Help!"
+    },
+    {
+        "combo": "vhs",
+        "final": true,
+        "value": "Need Healing!"
+    },
+    {
+        "combo": "vi",
+        "final": false,
+        "value": "Incoming"
+    },
+    {
+        "combo": "vi1",
+        "final": true,
+        "value": "Enemies incoming left!"
+    },
+    {
+        "combo": "vi2",
+        "final": true,
+        "value": "Enemies incoming middle!"
+    },
+    {
+        "combo": "vi3",
+        "final": true,
+        "value": "Enemies incoming right!"
+    },
+    {
+        "combo": "vii",
+        "final": true,
+        "value": "Enemies incoming!"
+    },
+    {
+        "combo": "vq",
+        "final": false,
+        "value": "Ward"
+    },
+    {
+        "combo": "vq1",
+        "final": true,
+        "value": "Ward left!"
+    },
+    {
+        "combo": "vq2",
+        "final": true,
+        "value": "Ward middle!"
+    },
+    {
+        "combo": "vq3",
+        "final": true,
+        "value": "Ward right!"
+    },
+    {
+        "combo": "vqf",
+        "final": true,
+        "value": "Ward Fire Giant!"
+    },
+    {
+        "combo": "vqg",
+        "final": true,
+        "value": "Ward Gold Fury!"
+    },
+    {
+        "combo": "vqn",
+        "final": true,
+        "value": "Need Wards!"
+    },
+    {
+        "combo": "vqq",
+        "final": true,
+        "value": "Ward Here!"
+    },
+    {
+        "combo": "vr",
+        "final": false,
+        "value": "Retreat"
+    },
+    {
+        "combo": "vr1",
+        "final": true,
+        "value": "Retreat left lane!"
+    },
+    {
+        "combo": "vr2",
+        "final": true,
+        "value": "Retreat middle lane!"
+    },
+    {
+        "combo": "vr3",
+        "final": true,
+        "value": "Retreat right lane!"
+    },
+    {
+        "combo": "vrj",
+        "final": true,
+        "value": "Retreat from the Jungle!"
+    },
+    {
+        "combo": "vrr",
+        "final": true,
+        "value": "Retreat!"
+    },
+    {
+        "combo": "vrs",
+        "final": true,
+        "value": "Save yourself!"
+    },
+    {
+        "combo": "vs",
+        "final": false,
+        "value": "Self"
+    },
+    {
+        "combo": "vsa",
+        "final": false,
+        "value": "Attack"
+    },
+    {
+        "combo": "vsa1",
+        "final": true,
+        "value": "I'll attack left lane!"
+    },
+    {
+        "combo": "vsa2",
+        "final": true,
+        "value": "I'll attack middle lane!"
+    },
+    {
+        "combo": "vsa3",
+        "final": true,
+        "value": "I'll attack right lane!"
+    },
+    {
+        "combo": "vsaa",
+        "final": true,
+        "value": "I'll attack!"
+    },
+    {
+        "combo": "vsaf",
+        "final": true,
+        "value": "I'll attack Fire Giant!"
+    },
+    {
+        "combo": "vsag",
+        "final": true,
+        "value": "I'll attack the Gold Fury!"
+    },
+    {
+        "combo": "vsam",
+        "final": true,
+        "value": "I'll attack the Titan!"
+    },
+    {
+        "combo": "vsb",
+        "final": false,
+        "value": "Buff"
+    },
+    {
+        "combo": "vsbb",
+        "final": true,
+        "value": "I'm going for jungle buff!"
+    },
+    {
+        "combo": "vsbn",
+        "final": true,
+        "value": "I need jungle buff."
+    },
+    {
+        "combo": "vsbt",
+        "final": true,
+        "value": "Take this jungle buff."
+    },
+    {
+        "combo": "vsd",
+        "final": false,
+        "value": "Defend"
+    },
+    {
+        "combo": "vsd1",
+        "final": true,
+        "value": "I'll defend left lane!"
+    },
+    {
+        "combo": "vsd2",
+        "final": true,
+        "value": "I'll defend middle lane!"
+    },
+    {
+        "combo": "vsd3",
+        "final": true,
+        "value": "I'll defend right lane!"
+    },
+    {
+        "combo": "vsdd",
+        "final": true,
+        "value": "I'll defend!"
+    },
+    {
+        "combo": "vsdf",
+        "final": true,
+        "value": "I'll defend Fire Giant!"
+    },
+    {
+        "combo": "vsdg",
+        "final": true,
+        "value": "I'll defend the Gold Fury!"
+    },
+    {
+        "combo": "vsdm",
+        "final": true,
+        "value": "I'll defend the Titan!"
+    },
+    {
+        "combo": "vsw",
+        "final": false,
+        "value": "Ward"
+    },
+    {
+        "combo": "vsw1",
+        "final": true,
+        "value": "I will ward left!"
+    },
+    {
+        "combo": "vsw2",
+        "final": true,
+        "value": "I will ward middle!"
+    },
+    {
+        "combo": "vsw3",
+        "final": true,
+        "value": "I will ward right!"
+    },
+    {
+        "combo": "vswq",
+        "final": true,
+        "value": "I will ward!"
+    },
+    {
+        "combo": "vsg",
+        "final": false,
+        "value": "Gank"
+    },
+    {
+        "combo": "vsg1",
+        "final": true,
+        "value": "I'll gank left lane!"
+    },
+    {
+        "combo": "vsg2",
+        "final": true,
+        "value": "I'll gank middle lane!"
+    },
+    {
+        "combo": "vsg3",
+        "final": true,
+        "value": "I'll gank right lane!"
+    },
+    {
+        "combo": "vsgg",
+        "final": true,
+        "value": "I'll gank!"
+    },
+    {
+        "combo": "vst",
+        "final": false,
+        "value": "Returned"
+    },
+    {
+        "combo": "vst1",
+        "final": true,
+        "value": "I'm returning left lane!"
+    },
+    {
+        "combo": "vst2",
+        "final": true,
+        "value": "I'm returning middle lane!"
+    },
+    {
+        "combo": "vst3",
+        "final": true,
+        "value": "I'm returning right lane!"
+    },
+    {
+        "combo": "vstb",
+        "final": true,
+        "value": "I'm returning to base!"
+    },
+    {
+        "combo": "vstt",
+        "final": true,
+        "value": "I have returned!"
+    },
+    {
+        "combo": "vso",
+        "final": true,
+        "value": "I'm on it!"
+    },
+    {
+        "combo": "vsr",
+        "final": true,
+        "value": "Falling back!"
+    },
+    {
+        "combo": "vss",
+        "final": true,
+        "value": "I'm building Stacks!"
+    },
+    {
+        "combo": "vt",
+        "final": false,
+        "value": "Returned"
+    },
+    {
+        "combo": "vt1",
+        "final": true,
+        "value": "Enemies have returned left!"
+    },
+    {
+        "combo": "vt2",
+        "final": true,
+        "value": "Enemies have returned middle!"
+    },
+    {
+        "combo": "vt3",
+        "final": true,
+        "value": "Enemies have returned right!"
+    },
+    {
+        "combo": "vtt",
+        "final": true,
+        "value": "Enemies have returned!"
+    },
+    {
+        "combo": "vv",
+        "final": false,
+        "value": "Other"
+    },
+    {
+        "combo": "vvg",
+        "final": false,
+        "value": "General"
+    },
+    {
+        "combo": "vvgb",
+        "final": true,
+        "value": "Bye!"
+    },
+    {
+        "combo": "vvgf",
+        "final": true,
+        "value": "Have fun!"
+    },
+    {
+        "combo": "vvgg",
+        "final": true,
+        "value": "Good game!"
+    },
+    {
+        "combo": "vvgh",
+        "final": true,
+        "value": "Hi!"
+    },
+    {
+        "combo": "vvgl",
+        "final": true,
+        "value": "Good luck!"
+    },
+    {
+        "combo": "vvgn",
+        "final": true,
+        "value": "Nice job!"
+    },
+    {
+        "combo": "vvgo",
+        "final": true,
+        "value": "Oops!"
+    },
+    {
+        "combo": "vvgq",
+        "final": true,
+        "value": "Quiet!"
+    },
+    {
+        "combo": "vvgr",
+        "final": true,
+        "value": "No problem!"
+    },
+    {
+        "combo": "vvgs",
+        "final": true,
+        "value": "Curses!"
+    },
+    {
+        "combo": "vvgt",
+        "final": true,
+        "value": "That's too bad!"
+    },
+    {
+        "combo": "vvgw",
+        "final": true,
+        "value": "Your're welcome"
+    },
+    {
+        "combo": "vvv",
+        "final": false,
+        "value": "Position"
+    },
+    {
+        "combo": "vvva",
+        "final": true,
+        "value": "Set up an ambush here!"
+    },
+    {
+        "combo": "vvvb",
+        "final": true,
+        "value": "Behind us!"
+    },
+    {
+        "combo": "vvvc",
+        "final": true,
+        "value": "Chase the enemy!"
+    },
+    {
+        "combo": "vvvd",
+        "final": true,
+        "value": "Ultimate is down!"
+    },
+    {
+        "combo": "vvve",
+        "final": true,
+        "value": "On my way!"
+    },
+    {
+        "combo": "vvvf",
+        "final": true,
+        "value": "Follow me!"
+    },
+    {
+        "combo": "vvvg",
+        "final": true,
+        "value": "Group up!"
+    },
+    {
+        "combo": "vvvj",
+        "final": true,
+        "value": "Going into the jungle!"
+    },
+    {
+        "combo": "vvvp",
+        "final": true,
+        "value": "Split push!"
+    },
+    {
+        "combo": "vvvr",
+        "final": true,
+        "value": "Ultimate is ready!"
+    },
+    {
+        "combo": "vvvs",
+        "final": true,
+        "value": "Stay here!"
+    },
+    {
+        "combo": "vvvt",
+        "final": true,
+        "value": "It's a trap!"
+    },
+    {
+        "combo": "vvvw",
+        "final": true,
+        "value": "Place a Ward for teleport!"
+    },
+    {
+        "combo": "vvvx",
+        "final": true,
+        "value": "Spread Out!"
+    },
+    {
+        "combo": "vva",
+        "final": true,
+        "value": "Ok!"
+    },
+    {
+        "combo": "vvb",
+        "final": true,
+        "value": "Be right back!"
+    },
+    {
+        "combo": "vvc",
+        "final": true,
+        "value": "Completed!"
+    },
+    {
+        "combo": "vvk",
+        "final": true,
+        "value": "Stepping away for a moment."
+    },
+    {
+        "combo": "vvm",
+        "final": true,
+        "value": "Out of mana!"
+    },
+    {
+        "combo": "vvn",
+        "final": true,
+        "value": "No!"
+    },
+    {
+        "combo": "vvp",
+        "final": true,
+        "value": "Please?"
+    },
+    {
+        "combo": "vvs",
+        "final": true,
+        "value": "Sorry!"
+    },
+    {
+        "combo": "vvt",
+        "final": true,
+        "value": "Thanks!"
+    },
+    {
+        "combo": "vvw",
+        "final": true,
+        "value": "Wait!"
+    },
+    {
+        "combo": "vvx",
+        "final": true,
+        "value": "Cancel that!"
+    },
+    {
+        "combo": "vvy",
+        "final": true,
+        "value": "Yes!"
+    }
+]
