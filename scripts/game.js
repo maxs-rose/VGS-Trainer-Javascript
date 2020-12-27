@@ -30,11 +30,13 @@ $(document).keypress(function(e)
     {
         score = 0
         getChallenge()
+        shake()
     }
     else if(e.which == 32)
     {
         score = 0
         clear()
+        shake()
     }
     else if(e.which == 47)
     {
@@ -116,6 +118,11 @@ function win()
     $("#user-input").fadeOut(100).fadeIn(100).fadeOut(100).fadeIn(100)
 
     getChallenge()
+}
+
+function shake()
+{
+    $("#user-input").effect("shake")
 }
 
 function updateDisplay()
