@@ -89,7 +89,7 @@ function getOptions(comb)
 function clear()
 {
     input = ""
-    $("#user-input").html("Update Input")
+    $("#user-input").html("VGS Input")
     $("#options-list").html("")
     $("#score").find("span").html(score)
 }
