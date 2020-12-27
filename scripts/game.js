@@ -9,7 +9,7 @@ var gotHint = false
 
 $(document).ready(function()
 {
-    $.getJSON('../data/vgs.json', function(data) {
+    $.getJSON(`${document.URL}/../data/vgs.json`, function(data) {
         vgsJson = data
 
         selectableVGS = []
